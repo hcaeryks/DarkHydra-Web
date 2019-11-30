@@ -1,0 +1,9 @@
+:root {
+    --light-red: radial-gradient(circle, #e93e3e, #e53534, #e02b29, #db201e, #d61111);
+    --light-pink: radial-gradient(circle, #e93ed3, #e535c7, #e02abb, #db1faf, #d611a3);
+    --light-purple: radial-gradient(circle, #d23ee9, #d136e4, #d02ce0, #ce21db, #cd11d6);
+    --light-blue: radial-gradient(circle, #3e81e9, #3276e5, #276ce0, #1c61db, #1156d6);
+    --light-green: radial-gradient(circle, #3ee95b, #36e455, #2cdf50, #21db4a, #11d644);
+    --light-yellow: radial-gradient(circle, #dae93e, #d9e435, #d8e02b, #d7db20, #d6d611);
+    --light-orange: radial-gradient(circle, #e9b53e, #e4ae34, #e0a72a, #dba11f, #d69a11);
+}
